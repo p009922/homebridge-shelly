@@ -1,0 +1,17 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "arrow-parens": false,
+        "eofline": false,
+        "quotemark": false,
+        "max-line-length": false,
+        "no-console": false,
+        "no-submodule-imports": false,
+        "no-empty": false,
+        "no-any": false,
+        "no-null-keyword": true,
+        "object-literal-sort-keys": false,
+        "ordered-imports": false,
+        "trailing-comma": [ true, { "multiline": "never", "singleline": "never" } ]
+    }
+}
